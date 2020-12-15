@@ -1,9 +1,9 @@
 # Safebox
 
 ### Team Members
-José Elias Ferreira Afonso
-Enrique Navarro Alarcon
-[Project Github Repository](https://github.com/zecarx7/Final_Project_Josefonso)
+José Elias Ferreira Afonso  
+Enrique Navarro Alarcon  
+[Project Github Repository](https://github.com/zecarx7/Final_Project_Josefonso)  
 
 # Objectives
 
@@ -138,15 +138,15 @@ This figure presents the simulation of saving the code in the EEPROM and then in
 ## Simulation 2 - Wrong code
 This simulation shows the user inputing a wrong code. A message is shown in the LCD and the program asks the user to input a new code.
 
-![enter image description here](https://raw.githubusercontent.com/zecarx7/Final_Project_Josefonso/main/Simu2.gif)
+![enter image description here](https://raw.githubusercontent.com/zecarx7/Final_Project_Josefonso/main/Simu2.gif)  
 
 
 # Video/Animation
-This gif presents all the features of the presented work:
-	- Saving one pin in the EEPROM
-	- Open relay only with correct code
-	- Automatic closes the lock after 3 seconds from opening
-	- Shows a message when the user inserts the wrong code
+This gif presents all the features of the presented work:  
+	- Saving one pin in the EEPROM  
+	- Open relay only with correct code  
+	- Automatic closes the lock after 3 seconds from opening  
+	- Shows a message when the user inserts the wrong code  
 
 ![enter image description here](https://raw.githubusercontent.com/zecarx7/Final_Project_Josefonso/main/Wrong-Correct.gif)
 # References
