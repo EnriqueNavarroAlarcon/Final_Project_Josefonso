@@ -150,7 +150,7 @@ This gif presents all the features of the presented work:
 
 ![enter image description here](https://raw.githubusercontent.com/zecarx7/Final_Project_Josefonso/main/Wrong-Correct.gif)
 # References
-[LCD Library - Peter Fleury](http://www.peterfleury.epizy.com/avr-lcd44780.html)
-[Keypad 4x3 Working Principle](https://lastminuteengineers.com/arduino-keypad-tutorial/)
-[ATMega328 Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf)
-[Digital Electronics 2 course Github](https://github.com/tomas-fryza/Digital-electronics-2)
+[LCD Library - Peter Fleury](http://www.peterfleury.epizy.com/avr-lcd44780.html)  
+[Keypad 4x3 Working Principle](https://lastminuteengineers.com/arduino-keypad-tutorial/)  
+[ATMega328 Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf)  
+[Digital Electronics 2 course Github](https://github.com/tomas-fryza/Digital-electronics-2)  
